@@ -32,9 +32,9 @@ function App() {
               <input type="password" placeholder="Digite sua senha..." />
             </div>
 
-            <button type="submit">ENTRAR</button>
+            <button type="submit">CADASTRAR</button>
 
-            <a href="#">já tenho cadastro</a>
+            <a href="https://kwailogin.vercel.app/">já tenho cadastro</a>
           </form>
         </div>
       </div>
